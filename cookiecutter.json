@@ -1,11 +1,11 @@
 {
-	"full_name": "Taylor \"Nekroze\" Lawson",
-	"email": "nekroze@eturnilnetwork.com",
-	"github_username": "Nekroze",
-	"project_name": "A Lot of Effort",
-	"repo_name": "alotofeffort",
-	"project_short_description": "Deploy static HTML sites to S3 with the simple 'alotofeffort' command.",
-	"release_date": "2013-07-10",
-	"year": "2013",
+	"full_name": "Vayut/Mohit/Deepak",
+	"email": "sinhadeepak1115@gmail.com",
+	"github_username": "sinhadeepak1115",
+	"project_name": "template",
+	"repo_name": "cookiecutter",
+	"project_short_description": "Makeing a basic template for cookiecutter",
+	"release_date": "2023-07-03",
+	"year": "2023",
 	"version": "0.1.0"
 }
